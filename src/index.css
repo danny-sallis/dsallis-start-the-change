@@ -25,6 +25,10 @@ body {
 }
 
 .squares {
-  border: none;
+  background: purple;
+  color: pink;
+  border: double;
   font-size: 5rem;
+  cursor: pointer;
+  outline: none;
 }
